@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm , Erfan Shahbazzadeh, a software engineer with a passion for software development and data science.
+I'm Erfan Shahbazzadeh, a software engineer with a passion for software development and data science.
 
 ### 🔹 About Me:
 
