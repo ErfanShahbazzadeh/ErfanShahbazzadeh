@@ -5,7 +5,7 @@ I'm Erfan Shahbazzadeh, a software engineer with a passion for software developm
 
 - **💻 Experienced in:** Python, C++.
 - **🚀 Enthusiastic about:**  Artificial Inteligence, back-end developing
-🎯 Constantly learning and improving my skills in: Mechine Learning, Data Scince, Telegram bots.
+🎯 Constantly learning and improving my skills in: Mechine Learning, Data Scince, Computer Networks, Linux.
 
 ### 🔹 Let's Connect!
 Feel free to check out my repositories, open issues, or contribute! You can also reach me on:
