@@ -1,14 +1,17 @@
 # Erfan Shahbazzadeh
 
-**Software Engineer** · Backend Developer · Computer Network Engineer · Enthusiast
+**Software Engineer** · Backend Developer · Networking Enthusiast
 
 ---
 
 ## About Me
 
-I'm a software engineer with experience in backend development,LLMs, and technical instruction. I've taught Python programming at a private academy, helping students build solid foundations in coding.
+I'm a software engineer with experience in backend development, LLMs, and technical instruction. I've taught Python at a private academy and built applications across **Python and C++** — including data structure implementations, a compiler project, and university-level C++ work.
+I also develop Telegram bots as one of several practical tools in my toolkit (automating tasks, integrating APIs, and creating interactive user experiences), not the sole focus.
 
-I'm currently deepening my knowledge of machine learning, data science, and Linux systems, while preparing for the CCNA certification to strengthen my networking expertise.
+I'm currently preparing for the CCNA certification to strengthen my networking foundation and learning Linux systems at a beginner level.
+
+---
 
 **Languages:** English (Proficient) · Persian (Native)
 
@@ -16,9 +19,28 @@ I'm currently deepening my knowledge of machine learning, data science, and Linu
 
 ## Technical Focus
 
-- **Languages:** Python, C++
-- **Core Interests:** Backend Development, Artificial Intelligence, Data Science
-- **Studying:** Machine Learning, Computer Networks, Linux (Beginner → Intermediate)
+- **Programing Languages:** Python, C++
+- **Core Interests:** Backend Development, LLMs, Networking
+- **Practical Experience:**
+  - Data Structures (Python)
+  - Compiler implementation (Python)
+  - University projects (C++)
+  - Telegram bots (Python)
+- **Studying:** Machine Learning, Computer Networks, Linux (Beginner)
+
+
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [smtp-protocol-demo](https://github.com/ErfanShahbazzadeh/smtp-protocol-demo) | A Python-based educational tool demonstrating the Simple Mail Transfer Protocol (SMTP)
+| [Telegram-bot](https://github.com/ErfanShahbazzadeh/Telegram-bot) | A simple Telegram bot built with Python | Python |
+| [Data-Structure](https://github.com/ErfanShahbazzadeh/Data-Structure) | Implementations of fundamental data structures | Python |
+| [Compiler](https://github.com/ErfanShahbazzadeh/Compiler) | Compiler design and implementation work | Python |
+| [Uni-Project](https://github.com/ErfanShahbazzadeh/Uni-Project) | Academic project developed in C++ | C++ |
 
 ---
 
@@ -36,4 +58,4 @@ I'm currently deepening my knowledge of machine learning, data science, and Linu
 
 ---
 
-*Open to collaboration on backend projects, data science work, or anything interesting.*
+*Open to collaboration on backend projects, Telegram bots, LLM applications, or networking work.*
