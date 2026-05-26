@@ -1,16 +1,39 @@
-# Hello there 👋
-I'm Erfan Shahbazzadeh, a software engineer with a passion for software development and data science.
+# Erfan Shahbazzadeh
 
-### 🔹 About Me:
+**Software Engineer** · Backend Developer · Computer Network Engineer · Enthusiast
 
-- **💻 Experienced in:** Python, C++.
-- **🚀 Enthusiastic about:**  Artificial Inteligence, back-end developing
-🎯 Constantly learning and improving my skills in: Mechine Learning, Data Scince, Computer Networks, Linux.
+---
 
-### 🔹 Let's Connect!
-Feel free to check out my repositories, open issues, or contribute! You can also reach me on:
-- [GitHub](https://github.com/ErfanShahbazzadeh)
-- [Telegram](https://t.me/Mr_E_ZZ)
-- [LinkedIn](https://www.linkedin.com/in/erfan-shahbazzadeh-24b18831a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8ijs%2B4QqR3yJBHZzrPbMKQ%3D%3D)
+## About Me
 
-Happy coding! 🚀
+I'm a software engineer with experience in backend development,LLMs, and technical instruction. I've taught Python programming at a private academy, helping students build solid foundations in coding.
+
+I'm currently deepening my knowledge of machine learning, data science, and Linux systems, while preparing for the CCNA certification to strengthen my networking expertise.
+
+**Languages:** English (Proficient) · Persian (Native)
+
+---
+
+## Technical Focus
+
+- **Languages:** Python, C++
+- **Core Interests:** Backend Development, Artificial Intelligence, Data Science
+- **Studying:** Machine Learning, Computer Networks, Linux (Beginner → Intermediate)
+
+---
+
+## Teaching Experience
+
+- Python Instructor at a private academy
+
+---
+
+## Connect With Me
+
+- GitHub: [ErfanShahbazzadeh](https://github.com/ErfanShahbazzadeh)
+- LinkedIn: [Erfan Shahbazzadeh](https://www.linkedin.com/in/erfan-shahbazzadeh-24b18831a)
+- Telegram: [@Mr_E_ZZ](https://t.me/Mr_E_ZZ)
+
+---
+
+*Open to collaboration on backend projects, data science work, or anything interesting.*
