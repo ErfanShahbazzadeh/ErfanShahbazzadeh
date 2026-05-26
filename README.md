@@ -36,7 +36,7 @@ I'm currently preparing for the CCNA certification to strengthen my networking f
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [smtp-protocol-demo](https://github.com/ErfanShahbazzadeh/smtp-protocol-demo) | A Python-based educational tool demonstrating the Simple Mail Transfer Protocol (SMTP)
+| [smtp-protocol-demo](https://github.com/ErfanShahbazzadeh/smtp-protocol-demo) | A educational tool demonstrating the Simple Mail Transfer Protocol (SMTP) | Python |
 | [Telegram-bot](https://github.com/ErfanShahbazzadeh/Telegram-bot) | A simple Telegram bot built with Python | Python |
 | [Data-Structure](https://github.com/ErfanShahbazzadeh/Data-Structure) | Implementations of fundamental data structures | Python |
 | [Compiler](https://github.com/ErfanShahbazzadeh/Compiler) | Compiler design and implementation work | Python |
