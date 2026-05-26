@@ -22,6 +22,7 @@ I'm currently preparing for the CCNA certification to strengthen my networking f
 - **Programing Languages:** Python, C++
 - **Core Interests:** Backend Development, LLMs, Networking
 - **Practical Experience:**
+  - Warehouse-management-system (python)
   - Data Structures (Python)
   - Compiler implementation (Python)
   - University projects (C++)
@@ -36,6 +37,7 @@ I'm currently preparing for the CCNA certification to strengthen my networking f
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [WMS](https://github.com/ErfanShahbazzadeh/Warehouse-management-system) | A complete desktop application for managing warehouse inventory, orders, and reporting. | Python |
 | [smtp-protocol-demo](https://github.com/ErfanShahbazzadeh/smtp-protocol-demo) | A educational tool demonstrating the Simple Mail Transfer Protocol (SMTP) | Python |
 | [Telegram-bot](https://github.com/ErfanShahbazzadeh/Telegram-bot) | A simple Telegram bot built with Python | Python |
 | [Data-Structure](https://github.com/ErfanShahbazzadeh/Data-Structure) | Implementations of fundamental data structures | Python |
