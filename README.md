@@ -39,6 +39,7 @@ I'm currently preparing for the CCNA certification to strengthen my networking f
 |---------|-------------|------|
 | [WMS](https://github.com/ErfanShahbazzadeh/Warehouse-management-system) | A complete desktop application for managing warehouse inventory, orders, and reporting. | Python |
 | [smtp-protocol-demo](https://github.com/ErfanShahbazzadeh/smtp-protocol-demo) | A educational tool demonstrating the Simple Mail Transfer Protocol (SMTP) | Python |
+| [PDF-Speech-Reader](https://github.com/ErfanShahbazzadeh/PDF-Speech-Reader) | A simple script that extracts text from a PDF file and reads it using text-to-speech. | Python |
 | [Telegram-bot](https://github.com/ErfanShahbazzadeh/Telegram-bot) | A simple Telegram bot built with Python | Python |
 | [Data-Structure](https://github.com/ErfanShahbazzadeh/Data-Structure) | Implementations of fundamental data structures | Python |
 | [Compiler](https://github.com/ErfanShahbazzadeh/Compiler) | Compiler design and implementation work | Python |
